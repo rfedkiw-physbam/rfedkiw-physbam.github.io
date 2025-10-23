@@ -1,0 +1,10 @@
+@misc{cs205l,
+    author = {Ronald Fedkiw and
+              Yilin Zhu and 
+              Winnie Lin and
+              Jane Wu and
+              Kevin Li},
+    title = {Continuous Mathematical Methods with an Emphasis on Machine Learning},
+    year = {2023--2024},
+    note = {Stanford CS205L Winter 2023-2024 Lecture Slides}
+}
