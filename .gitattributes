@@ -1,5 +1,4 @@
 animations/analyspring_test.mov filter=lfs diff=lfs merge=lfs -text
-animations/yoda_smile.mov filter=lfs diff=lfs merge=lfs -text
 brittany/routine.mp4 filter=lfs diff=lfs merge=lfs -text
 papers/stanford2024-cs205l.pdf !filter !diff !merge text
 
