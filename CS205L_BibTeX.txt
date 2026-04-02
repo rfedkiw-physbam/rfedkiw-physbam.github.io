@@ -5,6 +5,6 @@
               Jane Wu and
               Kevin Li},
     title = {Continuous Mathematical Methods with an Emphasis on Machine Learning},
-    year = {2023--2024},
-    note = {Stanford CS205L Winter 2023-2024 Lecture Slides}
+    year = {2025--2026},
+    note = {Stanford CS205L Winter 2025-2026 Lecture Slides}
 }
